@@ -10,21 +10,22 @@ body {
 
 .header {
   background: #f00;
-  border-bottom: 1px solid #aaa;
-  width: 100%;
-  margin: auto;
+  color: #fff;
+  border-bottom: 1px solid #ccc;
+  /*width: 100%;*/
+  /*margin: auto;*/
   /*font-weight: 700px;*/
 }
 
 .header a {
   display: block;
-  padding: 10px;
+  padding: 10px 20px;
 }
 
 .header-nav {
   width: 900px;
-  margin: auto;
-  border-left: 1px solid #aaa;
-  border-right: 1px solid #aaa;
-  color: white;
+  margin: 0 auto;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  /*color: white;*/
 }

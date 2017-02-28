@@ -2,13 +2,13 @@
 
 .header-logo {
   float: left;
-  border-right: 1px solid #aaa;
-  padding: 0 10px;
+  border-right: 1px solid #ccc;
+  /*padding: 0 10px;*/
   font-weight: 700px;
 }
 
 .header-logo:hover {
-
+  background: #000;
 }
 
 .header-list {
@@ -17,10 +17,10 @@
 
 .header-list > li {
   float: left;
-  border-left: 1px solid #aaa;
-  padding: 0px 10px;
+  border-left: 1px solid #ccc;
+  /*padding: 0px 10px;*/
 }
 
 .header-list > li:hover {
-  background: black;
+  background: #000;
 }
