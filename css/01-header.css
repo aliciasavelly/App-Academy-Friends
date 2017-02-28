@@ -13,6 +13,7 @@ body {
   border-bottom: 1px solid #aaa;
   width: 100%;
   margin: auto;
+  /*font-weight: 700px;*/
 }
 
 .header a {
