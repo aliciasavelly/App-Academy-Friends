@@ -10,13 +10,20 @@ body {
 
 .header {
   background: #f00;
-  border-bottom: 5px solid #eee;
+  border-bottom: 1px solid #aaa;
+  width: 100%;
+  margin: auto;
 }
 
 .header a {
-
+  display: block;
+  padding: 10px;
 }
 
 .header-nav {
-
+  width: 900px;
+  margin: auto;
+  border-left: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  color: white;
 }
